@@ -3,6 +3,7 @@
   "displayName": "Feather Preview",
   "description": "Preview Feather files in an editor tab.",
   "version": "0.0.1",
+  "publisher": "Strizzo",
   "repository": {
     "type": "git",
     "url": "https://github.com/your-username/feather-preview"
